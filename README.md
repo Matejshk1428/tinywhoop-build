@@ -3,17 +3,15 @@
 This project documents the building, configuration, and testing of a 65mm brushless TinyWhoop FPV drone.
 
 ## Components
+- Air 65 Frame and canopy (V2)
+- Air 65 brushless 5IN1 AIO
+- Caddx Ant Lite
+- Gemfan 1219S 31mm Props
+- Betafpv Goggles VR03
+- Lava 1s 260mAh Lipo
 
-- 65 mm frame: BetaFPV Air65
-- Motors: 0702 23000 KV brushless
-- Flight controller: Happymodel X12 AIO
-- FPV camera + VTX: integrated AIO module
-- Propellers: 31mm 3-blade
-- Battery: 1S 300mAh LiHV
-- FPV goggles: BetaFPV VR03
-
-## Goals
-
-- Assemble and configure the TinyWhoop
-- Fly through indoor race gaps
-- Document the process and flight tests
+# My Goals:
+- Build a TinyWhoop
+- Test it and compare it to the 3.5" Drone
+- Post the results here
+  
